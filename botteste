@@ -10,7 +10,7 @@ apt update -y > /dev/null 2>&1 && apt install unzip at jq curl -y > /dev/null 2>
 
 mkdir  $ HOME / BOT
 
-cd     $ HOME / BOT && wget https://app.box.com/s/z9rrtc4lxjn6qqrrawlo5xp9hoqtsm7t
+cd     $ HOME / BOT && wget https://github.com/sshquality/botteste/blob/master/botteste.zip
 
 descompacte botteste.zip> / dev / null 2 > & 1 && rm botteste.zip> / dev / null 2 > & 1
 
